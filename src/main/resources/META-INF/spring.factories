@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.github.springboot.rocket.autoconfig.RocketMQProducerAutoConfiguration

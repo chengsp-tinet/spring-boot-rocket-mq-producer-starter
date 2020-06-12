@@ -1,0 +1,38 @@
+{
+  "hints": [
+    {
+      "values": [
+        {
+          "value": true
+        },
+        {
+          "value": false
+        }
+      ],
+      "name": "spring.rocket.producer.enable"
+    },
+    {
+      "values": [
+        {
+          "value": true
+        },
+        {
+          "value": false
+        }
+      ],
+      "name": "spring.rocket.producer.unit-mode"
+    },
+    {
+      "values": [
+        {
+          "value": "default"
+        },
+        {
+          "value": "transaction"
+        }
+
+      ],
+      "name": "spring.rocket.producer.producer-type"
+    }
+  ]
+}
