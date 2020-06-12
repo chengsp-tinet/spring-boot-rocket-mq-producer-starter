@@ -1,7 +1,6 @@
 package com.github.github.springboot.rocket.autoconfig;
 
 import com.alibaba.rocketmq.common.MixAll;
-import com.alibaba.rocketmq.remoting.common.RemotingUtil;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
